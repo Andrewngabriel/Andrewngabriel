@@ -1,6 +1,4 @@
-programmer based in nyc 🗽
-
-[Email](mailto:Andrew@andrewtechful.com) | [Twitter](https://twitter/alphangolf) (where I usually hang out)
+[Email](mailto:Andrew@andrewtechful.com) | [Twitter](https://twitter/alphangolf)
 
 I enjoy reading, traveling, trying new restaurants, and exploring new subjects in the software industry (particullarly security)
 
