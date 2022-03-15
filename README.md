@@ -1,6 +1,6 @@
 [Email](mailto:Andrew@andrewtechful.com) | [Twitter](https://twitter/alphangolf)
 
-I enjoy reading, traveling, trying new restaurants, and exploring new subjects in the software industry (particullarly security)
+I enjoy reading, traveling, trying new restaurants, and exploring new subjects in the software industry.
 
 **Interests**
 - Mobile development - cross-platform using Flutter or React Native. Currently exploring native as well
